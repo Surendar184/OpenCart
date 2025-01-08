@@ -1,0 +1,292 @@
+[INFO ] 2024-12-29 14:36:27.664 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-29 14:36:27.974 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-29 14:36:28.257 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-29 14:36:29.738 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-29 14:52:32.179 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-29 14:52:32.537 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-29 14:52:32.881 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-29 14:52:34.681 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-29 15:04:41.660 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-29 15:04:41.839 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-29 15:04:42.137 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-29 15:04:43.789 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-29 21:17:00.825 [main] tc_LoginTest - ***tc_LoginTest***
+[INFO ] 2024-12-29 21:17:48.994 [main] tc_LoginTest - ***tc_LoginTest***
+[DEBUG] 2024-12-29 22:21:48.413 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2024-12-29 22:21:48.579 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-12-29 22:21:48.582 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.582 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.582 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.584 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.584 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.584 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.585 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.588 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-12-29 22:21:48.596 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.598 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.600 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.600 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.604 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.604 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.604 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-29 22:21:48.610 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[INFO ] 2024-12-29 22:21:48.627 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO ] 2024-12-29 22:21:53.076 [main] tc_LoginTest - ***tc_LoginTest***
+[INFO ] 2024-12-29 22:21:55.080 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f443fae: 0 ms
+[DEBUG] 2024-12-30 07:30:37.153 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\grouping.xml"
+[INFO ] 2024-12-30 07:30:37.427 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-12-30 07:30:37.429 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-12-30 07:30:37.432 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.432 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.432 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.432 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.433 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.433 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.438 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2024-12-30 07:30:37.450 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[INFO ] 2024-12-30 07:30:37.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.452 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.452 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.452 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.452 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.453 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.453 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.454 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.454 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.455 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.457 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.457 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.458 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.458 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.459 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.462 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.462 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.462 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.462 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.463 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.466 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2024-12-30 07:30:37.467 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.468 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.468 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.468 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 07:30:37.471 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\grouping.xml
+
+[INFO ] 2024-12-30 07:30:37.481 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2024-12-30 07:30:43.528 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-30 07:30:43.729 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-30 07:30:44.025 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-30 07:30:45.529 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-30 07:30:48.112 [main] tc_LoginTest - ***tc_LoginTest***
+[INFO ] 2024-12-30 07:30:49.658 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f4cfd90: 0 ms
+[DEBUG] 2024-12-30 17:48:56.398 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\grouping.xml"
+[INFO ] 2024-12-30 17:48:56.684 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-12-30 17:48:56.686 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.688 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.692 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-12-30 17:48:56.703 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2024-12-30 17:48:56.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.705 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.705 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.706 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.706 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.706 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.706 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.708 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.709 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.709 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.709 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.709 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.710 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.710 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.711 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.712 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.712 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.715 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.715 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.716 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.719 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2024-12-30 17:48:56.720 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.720 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.720 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.720 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:48:56.723 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\grouping.xml
+
+[INFO ] 2024-12-30 17:48:56.899 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-12-30 17:49:04.006 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-30 17:49:04.210 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-30 17:49:04.589 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-30 17:49:06.134 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-30 17:49:08.694 [main] tc_LoginTest - ***tc_LoginTest***
+[INFO ] 2024-12-30 17:49:11.705 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7cca01a8: 0 ms
+[DEBUG] 2024-12-30 17:50:00.425 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\grouping.xml"
+[INFO ] 2024-12-30 17:50:00.641 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-12-30 17:50:00.643 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-12-30 17:50:00.644 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.645 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.645 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.645 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.646 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.646 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.651 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2024-12-30 17:50:00.661 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2024-12-30 17:50:00.662 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.662 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.663 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.663 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.663 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.663 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.665 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.665 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.666 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.666 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.667 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.668 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.669 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.669 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.670 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.670 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.671 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.672 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.672 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.674 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.674 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.676 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.679 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-12-30 17:50:00.680 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.680 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.680 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.680 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-30 17:50:00.683 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\grouping.xml
+
+[INFO ] 2024-12-30 17:50:00.914 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+[INFO ] 2024-12-30 17:50:05.375 [main] tc_AccountReg - ******TC started*******
+[INFO ] 2024-12-30 17:50:05.572 [main] tc_AccountReg - ******clicked MyAccount*******
+[INFO ] 2024-12-30 17:50:06.028 [main] tc_AccountReg - ******clicked Register*******
+[INFO ] 2024-12-30 17:50:07.612 [main] tc_AccountReg - ******Validating expected msgr*******
+[INFO ] 2024-12-30 17:50:10.231 [main] tc_LoginTest - ***tc_LoginTest***
+[INFO ] 2024-12-30 17:50:11.701 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2629d5dc: 0 ms
+[DEBUG] 2025-01-06 23:16:55.502 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2025-01-06 23:16:55.792 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.794 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-01-06 23:16:55.796 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.796 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.796 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.796 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.797 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.797 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.801 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2025-01-06 23:16:55.811 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2025-01-06 23:16:55.812 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.813 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.814 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.814 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.814 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.814 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.815 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.817 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-01-06 23:16:55.817 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.817 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.819 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.819 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.819 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.819 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.820 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2025-01-06 23:16:55.820 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.822 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.822 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.822 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.822 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-01-06 23:16:55.826 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[INFO ] 2025-01-06 23:16:56.046 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2025-01-06 23:16:57.150 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10876a6: 0 ms
+[DEBUG] 2025-01-06 23:19:01.167 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2025-01-06 23:19:01.412 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[DEBUG] 2025-01-06 23:19:43.348 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2025-01-06 23:19:43.549 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[INFO ] 2025-01-06 23:19:51.660 [main] tc_LoginTest - ***tc_LoginTest***
+[DEBUG] 2025-01-06 23:22:00.184 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2025-01-06 23:22:00.433 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[DEBUG] 2025-01-06 23:46:35.326 [main] TestNG - suiteXmlPath: "C:\Automation\OpenCart\master.xml"
+[INFO ] 2025-01-06 23:46:35.596 [main] Utils - [TestNG] Running:
+  C:\Automation\OpenCart\master.xml
+
+[INFO ] 2025-01-06 23:46:40.402 [main] tc_LoginTest - ***tc_LoginTest***
+[DEBUG] 2025-01-06 23:47:43.068 [main] TestNG - suiteXmlPath: "C:\Users\suren\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml"
+[INFO ] 2025-01-06 23:47:43.391 [main] Utils - [TestNG] Running:
+  C:\Users\suren\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
